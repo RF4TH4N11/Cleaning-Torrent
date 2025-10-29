@@ -11,7 +11,7 @@ const services = [
   {
     title: "Cleaning Torrent",
     description:
-      "Layanan pembersihan rumah, kantor, dan komersial dengan hasil maksimal dan profesional.",
+      "Layanan pembersihan torrent atau tandon air dengan hasil maksimal dan profesional.",
     icon: "🧹",
   },
   {
