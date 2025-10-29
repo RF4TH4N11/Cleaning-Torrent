@@ -30,7 +30,7 @@ export default function HeroSection() {
           Bersih Kilat, Harga Terjangkau!
         </p>
         <p className="text-lg md:text-xl text-white mb-12 max-w-2xl mx-auto drop-shadow-md">
-          Layanan kebersihan rumah, kantor, dan komersial dengan hasil maksimal.
+          Layanan kebersihan torrent atau tandon air dengan hasil maksimal.
           Percayakan kebersihan Anda pada ahlinya.
         </p>
 
