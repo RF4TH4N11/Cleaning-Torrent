@@ -10,7 +10,7 @@ export default function HeroSection() {
       className="min-h-screen flex items-center justify-center px-4 py-20 bg-cover bg-center bg-no-repeat relative"
       style={{
         backgroundImage: "url('/assets/background.png')",
-        backgroundAttachment: "fixed",
+        backgroundAttachment: "scroll",
       }}
     >
       {/* Blur effect pada background */}
